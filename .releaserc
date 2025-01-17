@@ -1,7 +1,7 @@
 {
   "branches": [
         {
-        "name": "data-explorer",
+        "name": "main",
         "channel": "latest",
         "prerelease": false
       }

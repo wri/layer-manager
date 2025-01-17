@@ -1,6 +1,6 @@
 {
   "name": "luccas-layer-manager-testing",
-  "version": "3.1.0-data-explorer",
+  "version": "0.0.0-data-explorer",
   "description": "A library to get a layer depending on provider and layer spec",
   "repository": {
     "type": "git",
@@ -85,8 +85,8 @@
     "lint-staged": "^9.2.5",
     "luma.gl": "7.3.2",
     "prettier": "^1.18.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^18.3.2",
+    "react-dom": "^18.3.2",
     "rollup": "^0.66.2",
     "rollup-plugin-babel": "3.0.7",
     "rollup-plugin-commonjs": "^9.1.8",

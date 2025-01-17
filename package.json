@@ -102,7 +102,11 @@
   },
   "release": {
     "branches": [
-      "data-explorer"
+      {
+        "name": "data-explorer",
+        "channel": "latest",
+        "prerelease": false
+      }
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",

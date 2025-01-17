@@ -4,7 +4,7 @@
   "description": "A library to get a layer depending on provider and layer spec",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vizzuality/layer-manager.git"
+    "url": "https://github.com/wri/layer-manager.git"
   },
   "author": "Vizzuality",
   "license": "MIT",

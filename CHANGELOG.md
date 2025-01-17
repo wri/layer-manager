@@ -1,3 +1,18 @@
+## [3.0.9](https://github.com/wri/layer-manager/compare/v3.0.8...v3.0.9) (2025-01-17)
+
+
+### Bug Fixes
+
+* first publish ([1de902b](https://github.com/wri/layer-manager/commit/1de902bdaf31fe2e31ec254d413b913b4116ab67))
+* first publish ([93f36e1](https://github.com/wri/layer-manager/commit/93f36e18fdb434676ed887d52da3b27b3a9a53aa))
+* first publish ([f9abbc8](https://github.com/wri/layer-manager/commit/f9abbc8821bffed7563468c9858abc395e7279f5))
+* first publish ([3e37859](https://github.com/wri/layer-manager/commit/3e37859b0384f1175bed548f4a7706ec5b289ada))
+* first publish ([ffc79da](https://github.com/wri/layer-manager/commit/ffc79dab29aee9d12431a0ea1d69efee182c9e4b))
+* first publish 2 ([0900255](https://github.com/wri/layer-manager/commit/0900255234dff6a1c7a7f103ef3e29b3be983549))
+* first publish 3 ([5694c8a](https://github.com/wri/layer-manager/commit/5694c8ad14c4dfd4bc429f69ae8e347928070d0c))
+* first publish 4 ([79d0a87](https://github.com/wri/layer-manager/commit/79d0a875ef2d6e8d77241eaaf9f5105e36602324))
+* test first publish ([a665119](https://github.com/wri/layer-manager/commit/a6651196a8fd00659f5e2d79f4f86c8d48ba619f))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.

@@ -1,6 +1,6 @@
 {
-  "name": "luccas-layer-manager-testing",
-  "version": "3.0.9",
+  "name": "wri-layer-manager",
+  "version": "1.0.0",
   "description": "A library to get a layer depending on provider and layer spec",
   "repository": {
     "type": "git",

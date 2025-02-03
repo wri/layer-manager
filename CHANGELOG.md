@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wri/layer-manager/compare/v1.0.0...v1.0.1) (2025-02-03)
+
+
+### Bug Fixes
+
+* testing release ([7b6505e](https://github.com/wri/layer-manager/commit/7b6505e0a8e9d56d89fcfc90e19a2a039e38d938))
+
 # 1.0.0 (2025-01-17)
 
 

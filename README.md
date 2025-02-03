@@ -4,7 +4,7 @@
 
 This library will help you to manage the addition and removal of layers. It also provides methods to set opacity, visibility and zIndex.
 
-We currently only supports Mapbox spec. Leaflet or Google Maps Plugin is in our minds.
+We currently only supports Mapbox spec. Leaflet or Google Maps Plugin is in our minds. 
 
 ## :bomb: Install
 

@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/wri/layer-manager/compare/v1.0.1...v1.0.2) (2025-02-03)
+
+
+### Bug Fixes
+
+* first release under wri name ([d494279](https://github.com/wri/layer-manager/commit/d49427938683c386f5c58cb80385bc70ffb3e4b4))
+
 ## [1.0.1](https://github.com/wri/layer-manager/compare/v1.0.0...v1.0.1) (2025-02-03)
 
 

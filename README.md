@@ -16,6 +16,10 @@ Using yarn:
 
 `yarn add layer-manager`
 
+Using bun:
+
+`bun add layer-manager`
+
 
 ## :heavy_exclamation_mark: Requirements
 
